@@ -1,0 +1,6 @@
+<!--pages/Purchase/Purchase.wxml-->
+<view>
+  <text class="title1">需要支付：</text>
+  <text class="content1">{{ fruitprice }}元</text>
+  <text class="content2">支付成功!</text>
+</view>
